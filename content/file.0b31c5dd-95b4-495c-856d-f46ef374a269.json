@@ -1,0 +1,57 @@
+{
+    "uuid": [
+        {
+            "value": "0b31c5dd-95b4-495c-856d-f46ef374a269"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "12d73d3a-832c-487f-bf92-d70d619238c5",
+            "url": "\/user\/1"
+        }
+    ],
+    "filename": [
+        {
+            "value": "corn_maze_2.jpg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2018-06\/corn_maze_2.jpg",
+            "url": "\/sites\/default\/files\/2018-06\/corn_maze_2.jpg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 195560
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-06-19T14:32:39+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-06-19T14:33:20+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

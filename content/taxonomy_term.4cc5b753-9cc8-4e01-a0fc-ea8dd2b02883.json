@@ -1,0 +1,53 @@
+{
+    "uuid": [
+        {
+            "value": "4cc5b753-9cc8-4e01-a0fc-ea8dd2b02883"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "vid": [
+        {
+            "target_id": "tags",
+            "target_type": "taxonomy_vocabulary",
+            "target_uuid": "bf2452dd-ec1d-4eb2-a654-0804a49b5c9e"
+        }
+    ],
+    "name": [
+        {
+            "value": "mytag"
+        }
+    ],
+    "description": [],
+    "weight": [
+        {
+            "value": 0
+        }
+    ],
+    "parent": [
+        {
+            "target_id": 0
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-06-19T14:33:20+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ]
+}
